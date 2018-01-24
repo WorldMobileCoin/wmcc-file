@@ -1,0 +1,24 @@
+{
+  "name": "wmcc-file",
+  "version": "1.0.0-beta.1",
+  "release": "25 January 2018",
+  "description": "WorldMobileCoin © WMCC Filesystem Wrapper",
+  "repository": "git://github.com/worldmobilecoin/wmcc-file.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-file",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-file/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-file",
+    "file",
+    "fs"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-file.js",
+  "license": "MIT"
+}
